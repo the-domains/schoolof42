@@ -1,0 +1,28 @@
+name: Schoolof42
+favicon: null
+layout_spectrum: 0.2260339988861233
+typography_spectrum: 0.2712037614546716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5993591314181685
+  lightness: 0.9977126736193895
+  saturation: 0.3435227235313505
+  rhythmicContrast: 0.43958342960104346
+purpose: []
