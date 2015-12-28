@@ -4,8 +4,15 @@
         <description><![CDATA[School of 42]]></description>
         <link>https://thegrid.ai/schoolof42/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 10:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 12:19:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/schoolof42/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The world is changing]]></title>
+            <description><![CDATA[<article><h1>The world is changing</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37d35d4742152c3fcc78bcce38c157b96abaef13.jpg"></article>]]></description>
+            <link>https://thegrid.ai/schoolof42/the-world-is-changing/index.html</link>
+            <guid isPermaLink="false">6aca1068-9c09-4ffc-9656-ab4a6657d8d8</guid>
+            <pubDate>Mon, 28 Dec 2015 12:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[School of 42]]></title>
             <description><![CDATA[<article><h1>School of 42</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1379c8e87602f2273f3cd78cfe74670ab54b481.jpg"></article>]]></description>
