@@ -2,6 +2,7 @@ name: Schoolof42
 favicon: null
 layout_spectrum: 0.2260339988861233
 typography_spectrum: 0.2712037614546716
+title: School of 42
 cta:
   domain: null
   bucket: null
