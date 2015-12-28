@@ -1,6 +1,6 @@
 name: Schoolof42
 favicon: null
-layout_spectrum: 0.2260339988861233
+layout_spectrum: 0.00451
 typography_spectrum: 0
 title: School of 42
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5993591314181685
-  lightness: 0.9977126736193895
+    - '#030303'
+    - '#ffffff'
+    - '#2d3e4e'
+    - '#78796d'
+    - '#aba693'
+  brandStrength: 0
+  lightness: 0.125
   saturation: 0.3435227235313505
-  rhythmicContrast: 0.43958342960104346
+  rhythmicContrast: 0.25
 purpose: []
